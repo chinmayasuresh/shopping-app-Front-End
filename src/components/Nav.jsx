@@ -14,7 +14,7 @@ const Nav = () => {
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
       <ul class="navbar-nav me-auto mb-2 mb-lg-0">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="/add"><b><em>ADD PRODUCT</em></b></a>
+          <a class="nav-link active" aria-current="page" href="/"><b><em>ADD PRODUCT</em></b></a>
         </li>
         <li class="nav-item">
           <a class="nav-link active" aria-current="page" href="/search"><b><em>SEARCH PRODUCT</em></b></a>
